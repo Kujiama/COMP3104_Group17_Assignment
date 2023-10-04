@@ -1,0 +1,4 @@
+There are many reasons why learning DevOps in the software development cycle is important.
+For one it reduces risk and improves quality. DevOps will reduce the risks that occur when
+new software is released because you are able to catch the problems early and be able to correct them.
+It automates testing and ensures high standards with continuous monitoring.
