@@ -6,3 +6,6 @@ wonderful cake.
 You'll learn in this course how to use the tools and procedures that facilitate effective collaboration between
 IT specialists and software developers. Making ensuring that the code you write not only functions properly but
 also gets along well with the platforms it will operate on is essential.
+COMP 3104 is like the key to unlocking the secrets of modern software development. By the end of it, you'll have
+the skills to make sure your software creations run like a well-oiled machine, and you'll be in high demand in
+the tech world. So, get ready to dive into the world of DevOps and become a true tech magician!
