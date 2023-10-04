@@ -1,2 +1,3 @@
 COMP 3104 is a class where we learn the basics of DevOps. The content is delivered online where we learn
 from our professor Pritesh Patel.
+Our class is evaluated based on lab exercises, lecture quizzes, assignments and exams.
