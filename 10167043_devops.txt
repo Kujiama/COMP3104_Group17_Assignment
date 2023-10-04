@@ -1,0 +1,6 @@
+Comp3104 Information
+    
+    Course Name: DevOps
+    Course Professor: Pritesh Patel
+    Course in time table: 6pm - 9pm 
+    Class Delivery: Online
