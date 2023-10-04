@@ -3,3 +3,6 @@ course that teaches you how to make software development and IT operations coexi
 Consider preparing a cake with the ingredients dispersed about the kitchen. DevOps is comparable to the culinary
 magic that makes it quick and easy to obtain the necessary materials, combine them flawlessly, and deliver a
 wonderful cake.
+You'll learn in this course how to use the tools and procedures that facilitate effective collaboration between
+IT specialists and software developers. Making ensuring that the code you write not only functions properly but
+also gets along well with the platforms it will operate on is essential.
