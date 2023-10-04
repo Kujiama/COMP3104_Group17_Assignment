@@ -1,6 +1,13 @@
-Comp3104 Information
-    
+Comp3104 Information:
+
     Course Name: DevOps
     Course Professor: Pritesh Patel
     Course in time table: 6pm - 9pm 
     Class Delivery: Online
+
+What is expected from the course:
+
+    1. Demonstrate knowledge of effective DevOps techniques and be able to provide solutions
+       using industry standard tools and techniques such as continuous
+       integration/delivery/deployment strategies, software development lifecycle, application
+       containerization for deployment, etc
