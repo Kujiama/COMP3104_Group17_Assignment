@@ -6,3 +6,4 @@ A key part to most businesses. DevOps reduces future costs in the software devel
 optimization and finds problems before they become out of hand costing businesses to lose lots of money.
 Another key factor that all businesses need is to be adaptable. DevOps in the software development allows the
 business to adapt to customers needs and conditions of the market.
+Software development and DevOps goes hand and hand to creating an enrich environment.
