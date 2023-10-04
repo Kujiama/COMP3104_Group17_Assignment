@@ -1,3 +1,6 @@
 COMP 3104 is a class where we learn the basics of DevOps. The content is delivered online where we learn
 from our professor Pritesh Patel.
 Our class is evaluated based on lab exercises, lecture quizzes, assignments and exams.
+We will learn multiple different aspects of DevOps; to name a few topics we will learn
+are: Bash, GitHub, Version Control, Continuous Integration/Deployment, CI/CD Pipeline Sequences,
+and Working with Cloud Infrastructure.
