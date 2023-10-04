@@ -1,2 +1,5 @@
 The DevOps course, COMP 3104, is like a secret formula for today's technological wizards. Simply said, it's a
 course that teaches you how to make software development and IT operations coexist without conflict.
+Consider preparing a cake with the ingredients dispersed about the kitchen. DevOps is comparable to the culinary
+magic that makes it quick and easy to obtain the necessary materials, combine them flawlessly, and deliver a
+wonderful cake.
