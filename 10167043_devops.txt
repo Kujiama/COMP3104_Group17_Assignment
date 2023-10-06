@@ -1,0 +1,26 @@
+Comp3104 Information:
+
+    Course Name: DevOps
+    Course Professor: Pritesh Patel
+    Course in time table: 6pm - 9pm 
+    Class Delivery: Online
+
+
+What can I learn from this course:
+    
+    As a student of this course I will be able to learn the best practices that DevOps engineer
+    uses and bring a positive impact on productivity.
+
+    I can also learn how to collaborate with peers or teams
+
+    I can learn how to be proficient with version control systems like Github 
+
+
+
+
+What is expected from the course:
+
+    1. Demonstrate knowledge of effective DevOps techniques and be able to provide solutions
+       using industry standard tools and techniques such as continuous
+       integration/delivery/deployment strategies, software development lifecycle, application
+       containerization for deployment, etc

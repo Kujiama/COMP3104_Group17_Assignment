@@ -1,0 +1,12 @@
+Why learning being a DevOps engineer is important?
+
+    In the industry where continuous learning is integral, learning to being a DevOps engineer encompasses technical skills, soft skills,
+    and the ability to adapt to a rapidly changing IT landscape. DevOps engineers who prioritize learning are better equipped to drive innovation, 
+    enhance collaboration, and optimize software delivery pipelines in their organizations. 
+
+
+In addition, part of the DevOps engineer's work is Software Development Life Cycle:
+
+    DevOps primarily focuses on the automation, collaboration, and optimization of software delivery processes, it is closely intertwined with the SDLC. 
+    DevOps engineers play a critical role in aligning the practices and tools used in both development and operations to ensure that software is delivered 
+    efficiently, reliably, and securely throughout its lifecycle.
