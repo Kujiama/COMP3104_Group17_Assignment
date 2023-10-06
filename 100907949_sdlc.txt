@@ -1,0 +1,9 @@
+Learning DevOps engineering in SDLC provides students with
+the capability to work as a team in collaboration between
+development and operation environments. Provide improved
+quality assurance and creating stable and reliable environments
+for software deployment.
+
+DevOps practices can lead to cost savings through
+better resource utilization, automation, and efficient use of cloud resources.
+
