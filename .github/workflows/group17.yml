@@ -1,0 +1,58 @@
+name: CI
+
+on:
+  # Triggers the workflow on push events to the specified branches
+  push:
+    branches:
+      - 101367043-England
+      - 101239441-Abbas
+      - 100907949-Tony
+      - 101391157-Erdal
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build-101-England:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 101-England branch
+        uses: actions/checkout@v3
+      - name: Build and test for 101-England branch
+        run: |
+          echo "Building and testing for 101-England branch"
+          # Add your build and test commands here
+
+  build-102-Abbas:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 102-Abbas branch
+        uses: actions/checkout@v3
+      - name: Build and test for 102-Abbas branch
+        run: |
+          echo "Building and testing for 102-Abbas branch"
+          # Add your build and test commands here
+
+  build-103-Tony:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 103-Tony branch
+        uses: actions/checkout@v3
+      - name: Build and test for 103-Tony branch
+        run: |
+          echo "Building and testing for 103-Tony branch"
+          # Add your build and test commands here
+
+  build-104-Erdal:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 104-Erdal branch
+        uses: actions/checkout@v3
+      - name: Build and test for 104-Erdal branch
+        run: |
+          echo "Building and testing for 104-Erdal branch"
+          # Add your build and test commands here
